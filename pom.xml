@@ -12,11 +12,6 @@
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
 	</dependency>
 </dependencies>
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
-    </properties>
     <distributionManagement>
     <repository>
       <id>github</id>
